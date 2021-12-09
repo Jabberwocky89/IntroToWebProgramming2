@@ -1,9 +1,15 @@
-Person 1
-Name: Gabriel
-Gender: Male
 Username: Jabberwocky
+Password: Abc123
+Bio: I am legend
+Colour: red
+Gender: male
+Sports: badminton, waterpolo
+Food: noodles
 
-Person 2
-Name: Germaine
-Gender: Female
 Username: SupremeLeader
+Password: 123Abc
+Bio: Obey me
+Colour: green
+Gender: female
+Sports: soccer, waterpolo
+Food: pizza
