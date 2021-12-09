@@ -1,0 +1,19 @@
+[
+    {
+        "question": "Which covid variant is the most feared currently?",
+        "options": ["gamma", "delta", "omicron"],
+        "correct": "omicron"
+    },
+
+    {
+        "question": "What is cynophobia?",
+        "options": ["fear of cyan color", "fear of dogs", "fear of chemicals"],
+        "correct": "fear of dogs"
+    },
+
+    {
+        "question": "Which country invented ice cream?",
+        "options": ["china", "france", "italy"],
+        "correct": "china"
+    }
+]
