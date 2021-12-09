@@ -1,15 +1,15 @@
-Username: Jabberwocky
-Password: Abc123
-Bio: I am legend
-Colour: red
-Gender: male
-Sports: badminton, waterpolo
-Food: noodles
+username: Jabberwocky
+password: Abc123
+bio: I am legend
+favColor: red
+gender: male
+sports: badminton, waterpolo
+food: noodles
 
-Username: SupremeLeader
-Password: 123Abc
-Bio: Obey me
-Colour: green
-Gender: female
-Sports: soccer, waterpolo
-Food: pizza
+username: SupremeLeader
+Ppssword: 123Abc
+bio: Obey me
+favColor: green
+gender: female
+sports: soccer, waterpolo
+food: pizza
