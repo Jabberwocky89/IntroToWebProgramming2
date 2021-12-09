@@ -1,0 +1,21 @@
+[
+    {
+       "username": "Jabberwocky",
+       "password": "Abc123",
+       "bio": "I am legend",
+       "favColor": "red",
+       "gender": "male",
+       "sports": ["badminton", "waterpolo"],
+       "food": ["noodles"]
+    },
+
+    {
+        "username": "SupremeLeader",
+        "password": "123Abc",
+        "bio": "Obey me",
+        "favColor": "green",
+        "gender": "female",
+        "sports": ["soccer", "waterpolo"],
+        "food": ["pizza"]
+    }
+]
