@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Which covid variant is the most feared currently?",
+        "options": ["gamma", "delta", "omicron"],
+        "correct": "omicron",
+        "explanation": "The gamma variant was not really notable. The delta variant was the most feared before the omicron variant."
+    },
+
+    {
+        "question": "What is cynophobia?",
+        "options": ["fear of cyan color", "fear of dogs", "fear of chemicals"],
+        "correct": "fear of dogs",
+        "explanation": "Fear of blue is known as cyanophobia. Fear of chemicals is known as chemophobia. Cynophobia is the fear of dogs."
+    },
+
+    {
+        "question": "Which country invented ice cream?",
+        "options": ["china", "france", "italy"],
+        "correct": "china",
+        "explanation": "While ice cream was introduced to the Western world by Italy, and made accessible to the public by France, China actually invented it around the year 200."
+    }
+]
